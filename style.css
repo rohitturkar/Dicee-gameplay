@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@700&display=swap');
+
+.container{
+  width:80%;
+  margin:auto;
+  text-align: center;
+}
+
+ body{
+   background-color:rgb(7, 7, 7);
+ }
+ h1{
+   color:rgb(66, 197, 84);
+   font-size:5rem;
+   margin:20px;
+   font-family: 'Gemunu Libre', sans-serif;
+ }
+ .dice{
+   display:inline-block;
+   font-size:2rem;
+   font-family: 'Gemunu Libre', sans-serif;
+ }
+ p{
+   color:rgb(66, 197, 84);
+   margin-top:50px;
+   padding:10px;
+ }
+ img{
+   width:80%;
+ }
