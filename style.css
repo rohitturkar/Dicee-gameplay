@@ -30,3 +30,17 @@
  img{
    width:80%;
  }
+.reload{
+  display:block;
+  width:7rem;
+  margin:1rem auto;
+  text-align: center;
+  border-radius: 1rem;
+  font-size:1.3rem;
+  font-family: 'Scheherazade New', serif;
+  color:white;
+  background-color:rgb(253, 51, 0);
+  /* border:2px solid rgb(7, 7, 7); */
+  border:2px solid rgb(66, 197, 84);
+  cursor:pointer;
+}
